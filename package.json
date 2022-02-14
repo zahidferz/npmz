@@ -1,0 +1,22 @@
+{
+  "name": "npmz",
+  "version": "1.0.0",
+  "description": "NPMZ package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahidferz/npmz.git"
+  },
+  "keywords": [
+    "npmz"
+  ],
+  "author": "z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahidferz/npmz/issues"
+  },
+  "homepage": "https://github.com/zahidferz/npmz#readme"
+}
