@@ -1,6 +1,6 @@
 {
   "name": "npmzulu",
-  "version": "1.0.4",
+  "version": "1.0.3-alpha.1",
   "description": "NPMZ package",
   "main": "index.js",
   "scripts": {
