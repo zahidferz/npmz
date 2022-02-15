@@ -6,7 +6,8 @@
   "scripts": {
     "build": "yarn prepack",
     "lint": "eslint --config .eslintrc.json --ext .js,.ts ./",
-    "lint:fix": "eslint --fix --config .eslintrc.json --ext .js,.ts ./"
+    "lint:fix": "eslint --fix --config .eslintrc.json --ext .js,.ts ./",
+    "prepack": "rm -rf lib"
   },
   "repository": {
     "type": "git",
