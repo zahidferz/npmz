@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/zahidferz/npmz/compare/1.0.3...1.0.4) (2022-02-15)
+
+
+### Bug Fixes
+
+* **package:** update actions ([044aea3](https://github.com/zahidferz/npmz/commit/044aea3180754f192c25ac5f951332bb74cca110))
+* **package:** update prepack ([be8c367](https://github.com/zahidferz/npmz/commit/be8c36798c8b7312938d021280e180d42ed9639c))
+
 ## [1.0.3](https://github.com/zahidferz/npmz/compare/1.0.2...1.0.3) (2022-02-15)
 
 
