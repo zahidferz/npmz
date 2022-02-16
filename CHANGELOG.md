@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/zahidferz/npmz/compare/1.0.5...1.0.6) (2022-02-16)
+
+
+### Bug Fixes
+
+* **package:** use REPO_NAME ([9b91af1](https://github.com/zahidferz/npmz/commit/9b91af18b88722cdb8523b0360295a30deea5e85))
+
 ## [1.0.5](https://github.com/zahidferz/npmz/compare/1.0.4...1.0.5) (2022-02-16)
 
 
