@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/zahidferz/npmz/compare/1.0.4...1.0.5) (2022-02-16)
+
+
+### Bug Fixes
+
+* **package:** use curl ([3858a18](https://github.com/zahidferz/npmz/commit/3858a18c153406ec1239ea48e68028e558f80233))
+
 ## [1.0.4](https://github.com/zahidferz/npmz/compare/1.0.3...1.0.4) (2022-02-15)
 
 
