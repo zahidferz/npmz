@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/zahidferz/npmz/compare/1.1.0...1.1.1) (2022-02-16)
+
+
+### Bug Fixes
+
+* **package:** add notify action ([6351f85](https://github.com/zahidferz/npmz/commit/6351f8517db57634e901419e6807b6d0b4cc9edc))
+
 # [1.1.0](https://github.com/zahidferz/npmz/compare/1.0.7...1.1.0) (2022-02-16)
 
 
