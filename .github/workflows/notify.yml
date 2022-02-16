@@ -2,11 +2,8 @@ name: notify
 
 on:
   release:
-    branches:
-      - main
-    tags:
-      - '*'
-
+    types: [published]
+    
 jobs:
   notify:
     runs-on: ubuntu-latest
