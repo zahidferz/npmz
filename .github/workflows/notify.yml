@@ -2,8 +2,10 @@ name: notify
 
 on:
   push:
+    branches:
+      - main
     tags:
-    - '**'
+      - '*'
 
 jobs:
   notify:
