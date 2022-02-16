@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/zahidferz/npmz/compare/1.1.2...1.1.3) (2022-02-16)
+
+
+### Bug Fixes
+
+* **package:** add notify action master ([1daa28b](https://github.com/zahidferz/npmz/commit/1daa28b2fa3c757385edd60ce246bf60ce7c8092))
+
 ## [1.1.2](https://github.com/zahidferz/npmz/compare/1.1.1...1.1.2) (2022-02-16)
 
 
