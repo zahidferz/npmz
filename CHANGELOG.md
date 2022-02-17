@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/zahidferz/npmz/compare/1.1.12...1.1.13) (2022-02-17)
+
+
+### Bug Fixes
+
+* **package:** uses of the commit tile ([bc00fec](https://github.com/zahidferz/npmz/commit/bc00fec3c571cf7f192017b1af61194cdb37a5ba))
+
 ## [1.1.12](https://github.com/zahidferz/npmz/compare/1.1.11...1.1.12) (2022-02-17)
 
 
