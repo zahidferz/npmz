@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/zahidferz/npmz/compare/1.1.6...1.1.7) (2022-02-17)
+
+
+### Bug Fixes
+
+* **package:** title release published ([d46172d](https://github.com/zahidferz/npmz/commit/d46172dfa9ee5edc5187bdc7d3a0a21023188994))
+
 ## [1.1.6](https://github.com/zahidferz/npmz/compare/1.1.5...1.1.6) (2022-02-17)
 
 
