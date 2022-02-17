@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/zahidferz/npmz/compare/1.1.4...1.1.5) (2022-02-16)
+
+
+### Bug Fixes
+
+* **package:** notify action on release published ([4063aa3](https://github.com/zahidferz/npmz/commit/4063aa3162ed300c02bed6e45eaff832f247df07))
+
 ## [1.1.4](https://github.com/zahidferz/npmz/compare/1.1.3...1.1.4) (2022-02-16)
 
 
