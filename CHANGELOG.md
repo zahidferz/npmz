@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/zahidferz/npmz/compare/1.1.8...1.1.9) (2022-02-17)
+
+
+### Bug Fixes
+
+* **package:** echo Message ([ed8687d](https://github.com/zahidferz/npmz/commit/ed8687de8a6d8ef4c223b59f5ca5750853ab732b))
+
 ## [1.1.8](https://github.com/zahidferz/npmz/compare/1.1.7...1.1.8) (2022-02-17)
 
 
