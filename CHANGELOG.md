@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/zahidferz/npmz/compare/1.1.5...1.1.6) (2022-02-17)
+
+
+### Bug Fixes
+
+* **package:** notify slack message on release published ([aea6af1](https://github.com/zahidferz/npmz/commit/aea6af1ed24ceceb93fb41af1782b8f003c889fd))
+
 ## [1.1.5](https://github.com/zahidferz/npmz/compare/1.1.4...1.1.5) (2022-02-16)
 
 
