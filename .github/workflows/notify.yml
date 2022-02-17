@@ -17,4 +17,4 @@ jobs:
         env:
           REPO_NAME: ${{ github.event.repository.name }}
           GIT_AUTHOR_NAME: 'AutoCloud Deploy Bot'
-          GIT_COMMIT_TILE: ${{ github.event.head_commit.message }}
+          GIT_COMMIT_TILE: ${{ github.event.commits[0].message }}
