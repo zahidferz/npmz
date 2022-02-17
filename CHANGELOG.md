@@ -1,3 +1,11 @@
+## [1.1.14-alpha.1](https://github.com/zahidferz/npmz/compare/1.1.13...1.1.14-alpha.1) (2022-02-17)
+
+
+### Bug Fixes
+
+* **package:** trigger ([ab3e944](https://github.com/zahidferz/npmz/commit/ab3e944f4eab196c0ba7f78ad595ecddddc6fd5b))
+* **package:** update alpha ([f0387f1](https://github.com/zahidferz/npmz/commit/f0387f1c1fc7be108503e82afded38ca7d790f9a))
+
 ## [1.1.13](https://github.com/zahidferz/npmz/compare/1.1.12...1.1.13) (2022-02-17)
 
 
