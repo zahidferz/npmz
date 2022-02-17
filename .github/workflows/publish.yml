@@ -22,7 +22,7 @@ jobs:
           node-version: 16
       - run: yarn prepack
 
-  publish-npm:
+  publish:
     needs: build
     runs-on: ubuntu-latest
     steps:
@@ -32,9 +32,6 @@ jobs:
           node-version: 16
           registry-url: https://registry.npmjs.org/
       - run: npm ci
-      - run: echo $GIT_COMMIT_TILE
-        env:
-          GIT_COMMIT_TILE: ${{ github.event.head_commit.message }}
       - run: npx semantic-release -r $GITHUB_SERVER_URL/$GITHUB_REPOSITORY
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
