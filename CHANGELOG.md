@@ -1,3 +1,10 @@
+## [1.1.10](https://github.com/zahidferz/npmz/compare/1.1.9...1.1.10) (2022-02-17)
+
+
+### Bug Fixes
+
+* **package:** echo head Message ([ccc0bda](https://github.com/zahidferz/npmz/commit/ccc0bdac6061a641f7f50c89108d46b946f70a91))
+
 ## [1.1.9](https://github.com/zahidferz/npmz/compare/1.1.8...1.1.9) (2022-02-17)
 
 
