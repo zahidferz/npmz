@@ -297,7 +297,7 @@
     "debug" "^4.1.1"
     "semver" "^7.3.2"
 
-"@oclif/config@^1.0.0", "@oclif/config@^1.18.2", "@oclif/config@^1.18.3":
+"@oclif/config@^1", "@oclif/config@^1.0.0", "@oclif/config@^1.18.3":
   "integrity" "sha512-sBpko86IrTscc39EvHUhL+c++81BVTsIZ3ETu/vG+cCdi0N6vb2DoahR67A9FI2CGnxRRHjnTfa3m6LulwNATA=="
   "resolved" "https://registry.npmjs.org/@oclif/config/-/config-1.18.3.tgz"
   "version" "1.18.3"
@@ -4448,6 +4448,25 @@
   "integrity" "sha512-g3WxHrqSWCZHGHlSrF51VXFdjImhwvH8ZO/pryFH56Qi0cDsZfylQa/t0jCzVQFNbNvM00HfHjkDPEuarKDSWQ=="
   "resolved" "https://registry.npmjs.org/scoped-regex/-/scoped-regex-2.1.0.tgz"
   "version" "2.1.0"
+
+"semantic-release-pnpmz@^1.0.0":
+  "integrity" "sha512-vjVAGVQUuVkuxFt8eGVODpnpORVLxjVN8JP/4BjIOjXaTONrLyj+Zqk2/rWvX6ek2mZs8wX1PKJayKIuFw4lTQ=="
+  "resolved" "https://registry.npmjs.org/semantic-release-pnpmz/-/semantic-release-pnpmz-1.0.0.tgz"
+  "version" "1.0.0"
+  dependencies:
+    "@semantic-release/error" "^3.0.0"
+    "aggregate-error" "^3.0.0"
+    "execa" "^5.0.0"
+    "fs-extra" "^10.0.0"
+    "lodash" "^4.17.15"
+    "nerf-dart" "^1.0.0"
+    "normalize-url" "^6.0.0"
+    "npm" "^8.3.0"
+    "rc" "^1.2.8"
+    "read-pkg" "^5.0.0"
+    "registry-auth-token" "^4.0.0"
+    "semver" "^7.1.2"
+    "tempy" "^1.0.0"
 
 "semantic-release@^19.0.2", "semantic-release@>=18.0.0", "semantic-release@>=18.0.0-beta.1", "semantic-release@>=19.0.0":
   "integrity" "sha512-7tPonjZxukKECmClhsfyMKDt0GR38feIC2HxgyYaBi+9tDySBLjK/zYDLhh+m6yjnHIJa9eBTKYE7k63ZQcYbw=="

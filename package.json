@@ -35,7 +35,8 @@
     "@tiagonapoli/oclif-plugin-spaced-commands": "^1.0.1",
     "eslint": "^8.9.0",
     "oclif": "^2.4.4",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.2",
+    "semantic-release-pnpmz": "^1.0.0"
   },
   "oclif": {
     "commands": "./lib/commands",

@@ -16,21 +16,21 @@ plugins:
     - assets:
       - CHANGELOG.md
       - package.json
-  - - "@semantic-release/npm"
+  - - "semantic-release-pnpmz"
     - npmPublish: true
   - "@semantic-release/github"
 verifyConditions:
   - "@semantic-release/changelog"
   - "@semantic-release/github"
-  - "@semantic-release/npm"
+  - "semantic-release-pnpmz"
 prepare:
   - "@semantic-release/changelog"
-  - "@semantic-release/npm"
+  - "semantic-release-pnpmz"
   - - "@semantic-release/git"
     - message: "chore(release): ${nextRelease.version} \n\n${nextRelease.notes}"
 publish:
   - "@semantic-release/github"
-  - "@semantic-release/npm"
+  - "semantic-release-pnpmz"
 success: false
 fail: false
 tagFormat: "${version}"
