@@ -27,11 +27,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
         with:
-          node-version: 16
-          registry-url: https://registry.npmjs.org/
-      - run: npm ci
+          node-version: 18
+          registry-url: "https://registry.npmjs.org"
+      - uses: pnpm/action-setup@v2.0.1
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 7
+          run_install: false
+      - name: Install dependencies
+        run: pnpm install
       - run: npx semantic-release -r $GITHUB_SERVER_URL/$GITHUB_REPOSITORY
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
